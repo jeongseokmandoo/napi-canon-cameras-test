@@ -1,0 +1,10 @@
+{
+  "name": "gphoto2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@dimensional/napi-canon-cameras": "file:node_packages/@dimensional/napi-canon-cameras.tgz"
+  }
+}
